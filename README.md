@@ -41,15 +41,3 @@ Apasionado por crear aplicaciones web modernas y escalables, combinando un front
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eider-gonzalez/eider-gonzalez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eider-gonzalez/eider-gonzalez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eider-gonzalez/eider-gonzalez/output/pacman-contribution-graph.svg">
-</picture>
-
-###
